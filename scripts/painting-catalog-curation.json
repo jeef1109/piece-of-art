@@ -1,0 +1,436 @@
+{
+  "reviewedAt": "2026-10-12",
+  "policy": "Only visually reviewed full-color artworks. Exclude black-and-white reproductions, monochrome ink works, sketches, studies and design sheets. Do not automatically fill slots from keyword search results.",
+  "themes": {
+    "night-sky": [
+      "starry-night",
+      "met-10183",
+      "met-438952",
+      "met-439343",
+      "met-441379",
+      "met-488129",
+      "met-788905",
+      "met-436827",
+      "met-436833",
+      "met-11380"
+    ],
+    "portraits": [
+      "mona-lisa",
+      "girl-with-a-pearl-earring",
+      "met-12127",
+      "met-437869",
+      "met-436896",
+      "met-436532",
+      "met-437394",
+      "met-437397",
+      "met-437532",
+      "met-626692"
+    ],
+    "gardens": [
+      "water-lilies",
+      "met-435882",
+      "met-436528",
+      "met-671456",
+      "met-436527",
+      "met-436534",
+      "met-437301",
+      "met-436177",
+      "met-437382",
+      "met-827660"
+    ],
+    "sea-water": [
+      "the-great-wave-off-kanagawa",
+      "met-13115",
+      "met-436947",
+      "met-12748",
+      "met-437430",
+      "met-420448",
+      "met-10983",
+      "met-437854",
+      "met-437426",
+      "met-437979"
+    ],
+    "landscapes": [
+      "met-10497",
+      "met-435877",
+      "met-10501",
+      "met-10150",
+      "met-436535",
+      "met-435885",
+      "met-436451",
+      "met-437094",
+      "met-436090",
+      "met-437548"
+    ],
+    "city-life": [
+      "met-437310",
+      "met-11062",
+      "met-437680",
+      "met-11091",
+      "met-12617",
+      "met-437311",
+      "met-438101",
+      "met-20889",
+      "met-436596",
+      "met-485555"
+    ],
+    "leisure-daily": [
+      "luncheon-on-the-grass",
+      "met-11263",
+      "met-13755",
+      "met-14472",
+      "met-437881",
+      "met-438010",
+      "met-459086",
+      "met-11258",
+      "met-437280",
+      "met-437939"
+    ],
+    "dance-music": [
+      "blue-dancers",
+      "met-436141",
+      "met-436138",
+      "met-437654",
+      "met-436944",
+      "met-438817",
+      "met-438014",
+      "met-435844",
+      "met-459112",
+      "met-10465"
+    ],
+    "love-intimacy": [
+      "the-kiss",
+      "met-12602",
+      "met-436685",
+      "met-438158",
+      "met-10835",
+      "met-11274",
+      "met-435752",
+      "met-435977",
+      "met-438815",
+      "met-437452"
+    ],
+    "myths-sacred": [
+      "birth-of-venus",
+      "met-435817",
+      "met-437733",
+      "met-459016",
+      "met-436792",
+      "met-437261",
+      "met-437609",
+      "met-317618",
+      "met-458961",
+      "met-458977"
+    ],
+    "still-life": [
+      "met-437997",
+      "met-11737",
+      "met-11939",
+      "met-16591",
+      "met-436752",
+      "met-816520",
+      "met-816523",
+      "met-816624",
+      "met-888924",
+      "met-11096"
+    ],
+    "emotion-dreams": [
+      "the-scream",
+      "picasso-le-reve",
+      "met-11192",
+      "met-435776",
+      "met-436937",
+      "met-437034",
+      "met-437507",
+      "met-435997",
+      "met-437349",
+      "met-437878"
+    ]
+  },
+  "excludedIds": [
+    "met-14521",
+    "met-15026",
+    "met-21209",
+    "met-54709",
+    "met-339801",
+    "met-339944",
+    "met-360548",
+    "met-364533",
+    "met-711298",
+    "met-711339",
+    "met-712199",
+    "met-12611",
+    "met-12526",
+    "met-10362",
+    "met-10432",
+    "met-15958",
+    "met-42344",
+    "met-44897",
+    "met-337898",
+    "met-343421",
+    "met-11086",
+    "met-12854",
+    "met-17361",
+    "met-383236",
+    "met-387627",
+    "met-337632",
+    "met-202391",
+    "met-700415",
+    "met-372892",
+    "met-437319",
+    "met-341646",
+    "met-483454",
+    "met-36072",
+    "met-336844"
+  ],
+  "replacements": {
+    "met-436827": {
+      "replaces": "met-54709",
+      "image": "/sites/piece-of-art/paintings/met-436827.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP143198.jpg",
+      "sha256": "dfa4fedab8a73bc1e6ea1962c4851128dc1826c25747b7ad9c13e851e29df1e9",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436833": {
+      "replaces": "met-339801",
+      "image": "/sites/piece-of-art/paintings/met-436833.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2557.jpg",
+      "sha256": "418db017d3a419ab1a0c5701f5b8c99956a655aca4d237ad272142cf9c5a69a5",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436527": {
+      "replaces": "met-339944",
+      "image": "/sites/piece-of-art/paintings/met-436527.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-045.jpg",
+      "sha256": "4d7826f202d90e9488673f9df3fd73fba1d6c16a18e0234d797dce036cb2978d",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436534": {
+      "replaces": "met-360548",
+      "image": "/sites/piece-of-art/paintings/met-436534.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346475.jpg",
+      "sha256": "76e8b89371d4c4cc29abd13cde101bb3c786391cb9ea95ccea9390029f6c2413",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437301": {
+      "replaces": "met-364533",
+      "image": "/sites/piece-of-art/paintings/met-437301.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1868.jpg",
+      "sha256": "8b429242578e0369d91414d687c2f085ccdc0bc1bd016b01a28e21ce7fde84e1",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436177": {
+      "replaces": "met-711298",
+      "image": "/sites/piece-of-art/paintings/met-436177.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14092-001.jpg",
+      "sha256": "754d26d1755bea27a771968024d61ff88a030941f2c7a069e03f8e645df933f4",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437382": {
+      "replaces": "met-711339",
+      "image": "/sites/piece-of-art/paintings/met-437382.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT2159.jpg",
+      "sha256": "2608554981dfcbccecf6e76798459b90f36bc55d65ce0939bcde79fb99c245d4",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-827660": {
+      "replaces": "met-712199",
+      "image": "/sites/piece-of-art/paintings/met-827660.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19451-001.jpg",
+      "sha256": "a94b3dc7f62f473c164085b76c5f495dd856dbb6dea07891159ed0984329ed21",
+      "medium": "Oil on wood",
+      "classification": "Paintings"
+    },
+    "met-436947": {
+      "replaces": "met-12611",
+      "image": "/sites/piece-of-art/paintings/met-436947.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25466-001.jpg",
+      "sha256": "eb3ef8e65748596a08b28ae89c4ef778c38293c0e9b27d6ba72193129c067dd5",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437430": {
+      "replaces": "met-12526",
+      "image": "/sites/piece-of-art/paintings/met-437430.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-039.jpg",
+      "sha256": "b91b39443fccbe6c2984cbd3636773aca462f1994c695be40dccdd859b1e273b",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437426": {
+      "replaces": "met-10362",
+      "image": "/sites/piece-of-art/paintings/met-437426.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP136266.jpg",
+      "sha256": "d24777046034245544a69cac3cf9fbb59df4d86bc56e7a8df5e8be416d2f9aff",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437979": {
+      "replaces": "met-10432",
+      "image": "/sites/piece-of-art/paintings/met-437979.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23290-001.jpg",
+      "sha256": "a631871f11a2b5abe47b321df6cb720659d9d0f3128b1c70f85ec65d24d5b19f",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436535": {
+      "replaces": "met-15958",
+      "image": "/sites/piece-of-art/paintings/met-436535.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-42549-001.jpg",
+      "sha256": "af0e3486621c210b54932d055294051b5601aa3362af4b84ab97e2831f8163bc",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436451": {
+      "replaces": "met-42344",
+      "image": "/sites/piece-of-art/paintings/met-436451.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-043.jpg",
+      "sha256": "4e124b2f9f86d2fcf56edc076c8f66a54b864310aebf4945996caa1c63e50542",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437094": {
+      "replaces": "met-44897",
+      "image": "/sites/piece-of-art/paintings/met-437094.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1982.jpg",
+      "sha256": "94f349d7962f0472d0f8318af881c6426f12321966e97892894951f4519cc0d8",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436090": {
+      "replaces": "met-337898",
+      "image": "/sites/piece-of-art/paintings/met-436090.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-23369-001.jpg",
+      "sha256": "48751a95d8457ac865ffd2a74d1f93c60634118c1c50065997f71a7974c150fd",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437548": {
+      "replaces": "met-343421",
+      "image": "/sites/piece-of-art/paintings/met-437548.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP123841.jpg",
+      "sha256": "ba68f078d88801ea7afff10332df341564b281ac7ed2ba83474f07b5e65062a7",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437680": {
+      "replaces": "met-11086",
+      "image": "/sites/piece-of-art/paintings/met-437680.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-041.jpg",
+      "sha256": "7ef181f8ecd0b002fb7bd459ef33e8220158dd86d577548a9b93cba33261b3af",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437311": {
+      "replaces": "met-12854",
+      "image": "/sites/piece-of-art/paintings/met-437311.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1139.jpg",
+      "sha256": "45d4e40bd8d0b4b85902118549f68656e58e0b5394f22a3bf105f7a70fd3da5f",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-438101": {
+      "replaces": "met-17361",
+      "image": "/sites/piece-of-art/paintings/met-438101.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT274230.jpg",
+      "sha256": "d83360c18e56da2210d49b1302d9c42e117b35f16f023f799cdb241095d4ee38",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-436596": {
+      "replaces": "met-383236",
+      "image": "/sites/piece-of-art/paintings/met-436596.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14936-015.jpg",
+      "sha256": "e4282b9baedd0a2775101242f45fa45388d26b5ba5cc3bd7923c2b5a33c8f45e",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-485555": {
+      "replaces": "met-387627",
+      "image": "/sites/piece-of-art/paintings/met-485555.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ma/web-large/DT6415.jpg",
+      "sha256": "9b8449881dca1b22abba5cbf56e5f48e874f2f4d59d0b45966fb247329fe4a92",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-438010": {
+      "replaces": "met-337632",
+      "image": "/sites/piece-of-art/paintings/met-438010.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1874.jpg",
+      "sha256": "1767a361a58f2cbb5e41ae7e3ce5cfc1922b3f5151b7c369fc19773f80ffece9",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-435844": {
+      "replaces": "met-202391",
+      "image": "/sites/piece-of-art/paintings/met-435844.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-687-001.jpg",
+      "sha256": "4fcfc9c757f22dc2196d6f91596ea917d431500496775d88d1d612b4aec61c1c",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-459112": {
+      "replaces": "met-700415",
+      "image": "/sites/piece-of-art/paintings/met-459112.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/rl/web-large/DT3131.jpg",
+      "sha256": "d89f8be61d6fde1b60d869b43d2e17f6c7a877da1715e74f858f295fd81308bf",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-438158": {
+      "replaces": "met-372892",
+      "image": "/sites/piece-of-art/paintings/met-438158.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-33707-001.jpg",
+      "sha256": "c7442502a3af2ecd2bf5098743f45877ef4a98298191b943393eaa4391920bab",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-438815": {
+      "replaces": "met-437319",
+      "image": "/sites/piece-of-art/paintings/met-438815.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-35674-001.jpg",
+      "sha256": "d3c623ea906147346f7df865a1817032afd1d748b27ba1f45aa0535c69ebe9e4",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-459016": {
+      "replaces": "met-341646",
+      "image": "/sites/piece-of-art/paintings/met-459016.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/rl/web-large/DP267397.jpg",
+      "sha256": "f65b9803f1a77f3174edb8f87fac2439feccbf959fa36c0acc7a8610ff30facd",
+      "medium": "Tempera and gold on wood",
+      "classification": "Paintings"
+    },
+    "met-435997": {
+      "replaces": "met-483454",
+      "image": "/sites/piece-of-art/paintings/met-435997.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DT11964.jpg",
+      "sha256": "09b5378249e2ed40628858d276b5c551a897b8a89996076f38ca7d2c91b9e2bd",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437349": {
+      "replaces": "met-36072",
+      "image": "/sites/piece-of-art/paintings/met-437349.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14201-033.jpg",
+      "sha256": "b1630bf6e6448341fb7a9d73e5e443089541a4b850308f96e1fffb893d75ef83",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    },
+    "met-437878": {
+      "replaces": "met-336844",
+      "image": "/sites/piece-of-art/paintings/met-437878.jpg",
+      "sourceImage": "https://images.metmuseum.org/CRDImages/ep/web-large/DP355525.jpg",
+      "sha256": "09e22e9cdaca4642cd88b33cec827ac96d426f16b05028069fa78921e7f1ec27",
+      "medium": "Oil on canvas",
+      "classification": "Paintings"
+    }
+  }
+}
