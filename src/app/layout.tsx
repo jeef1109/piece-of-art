@@ -1,7 +1,5 @@
 import type { Metadata } from "next";
-import type { CSSProperties } from "react";
 import { Instrument_Serif, Inter, Playfair_Display } from "next/font/google";
-import { assetPath } from "@/lib/asset-path";
 import "./globals.css";
 
 const inter = Inter({
@@ -37,14 +35,7 @@ export default function RootLayout({
       lang="en"
       className={`${inter.variable} ${instrumentSerif.variable} ${playfairDisplay.variable} h-full antialiased`}
     >
-      <body
-        className="min-h-full"
-        style={{
-          "--wall-texture": `url("${assetPath("/sites/piece-of-art/white-cement-wall.jpg")}")`,
-        } as CSSProperties}
-      >
-        {children}
-      </body>
+      <body className="min-h-full">{children}</body>
     </html>
   );
 }
