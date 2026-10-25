@@ -41,7 +41,6 @@ export default function RootLayout({
         className="min-h-full"
         style={{
           "--wall-texture": `url("${assetPath("/sites/piece-of-art/white-cement-wall.jpg")}")`,
-          "--theme-hover-texture": `url("${assetPath("/sites/piece-of-art/theme-hover-brush-solid.png")}")`,
         } as CSSProperties}
       >
         {children}
